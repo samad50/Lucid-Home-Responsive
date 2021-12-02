@@ -30,11 +30,11 @@
 				font-size: 8px;
 				line-height: 18px;
 			}
-			.inner-button .btn-primary{
-                                font-size: 8px;
-			}
-			.inner-button .btn-secondary{
-                                 font-size: 8px;
+			.inner-banner .inner-button .btn-primary{
+                                font-size: 5px;
+                        }
+			.inner-banner .inner-button .btn-secondary{
+                               font-size: 5px;
 			}
 
 			.feature .title h6 {
