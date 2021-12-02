@@ -1,0 +1,501 @@
+/*most of low resolution phn css*/
+
+@media(min-width: 280px) and (max-width:320px){
+	/*css start*/
+
+	        .header .navbar-light .navbar-toggler {
+			    color: #fff;
+			    border-color: #fff;
+			}
+			.header .navbar-nav{
+				margin: 30px 0px 0px;
+			}
+			.header .navbar-toggler:focus{
+				box-shadow: 0 0 0 0rem;
+			}
+			.header .navbar-light .navbar-nav .nav-link:hover, .header .navbar-light .navbar-nav .nav-link:focus{
+			background: url("../images/line.png") left bottom no-repeat;
+			}
+			.header .navbar-light .navbar-nav .nav-link.active{
+				background: url("../images/line.png") left bottom no-repeat;
+			}
+			.header .navbar-light .navbar-nav .nav-link{
+				margin: 10px 0px 0px 15px;
+			}
+			.inner-banner h1{
+				font-size: 28px;
+				line-height: 38px;
+			}
+			.inner-banner p{
+				font-size: 8px;
+				line-height: 18px;
+			}
+			.inner-button .btn-primary{
+              font-size: 8px;
+			}
+			.inner-button .btn-secondary{
+              font-size: 8px;
+			}
+
+			.feature .title h6 {
+			    font-size: 14px;
+			    line-height: 24px;
+			}
+			.feature .title h2{
+				font-size: 26px;
+				line-height:36px;
+			}
+			.about-sort .title h6{
+				 font-size: 12px;
+			    line-height: 22px;
+			}
+			.about-sort .title h2{
+				font-size: 25px;
+				line-height:35px;
+			}
+			.about-sort-text{
+				font-size: 13px;
+				line-height: 23px;
+			}
+			.about-sort-list li{
+				font-size: 15px;
+				line-height:25px;
+			}
+			.about-long{
+				padding: 40px 0px;
+			}
+			.about-long .title h6{
+				 font-size: 12px;
+			    line-height: 22px;
+			}
+			.about-long .title h2{
+				font-size: 26px;
+				line-height:36px;
+			}
+			.about-long-text{
+				font-size: 13px;
+				line-height: 23px;
+			}
+			.testimonials{
+				padding: 40px 0px;
+			}
+			.testimonials .title h6{
+	              font-size: 12px;
+	              line-height: 22px ;
+			}
+			.testimonials .title h2{
+                 font-size: 26px;
+                 line-height: 36px;
+			}
+			.testimonials .owl-carousel .item h4{
+             	font-size: 16px;
+             	line-height: 26px;
+             }
+             .download h3{
+             	font-size: 30px;
+             	line-height: 40px;
+             }
+             .download .inner-button {
+				   padding: 15px 0px;
+				   text-align: center;
+			 }
+			 .price-planing .title h6{
+			 	font-size: 14px;
+			 	line-height: 24px;
+			 }
+			 .price-planing .title h2{
+			 	font-size: 30px;
+			 	line-height: 40px;
+			 }
+			 .contact-us{
+			 	padding: 40px 0px;
+			 }
+			 .contact-us .title h6{
+			 	font-size: 12px;
+			 	line-height: 22px;
+			 }
+			 .contact-us .title h2{
+			 	font-size: 30px;
+			 	line-height: 40px;
+			 	
+			 }
+          
+	/*css end*/
+}
+
+			/*Most of the mobile phone css*/
+@media (min-width: 321px) and (max-width: 480px){
+             	/*css start*/
+
+			.header .navbar-light .navbar-toggler {
+			    color: #fff;
+			    border-color: #fff;
+			}
+			.header .navbar-nav{
+				margin: 30px 0px 0px;
+			}
+			.header .navbar-toggler:focus{
+				box-shadow: 0 0 0 0rem;
+			}
+			.header .navbar-light .navbar-nav .nav-link:hover, .header .navbar-light .navbar-nav .nav-link:focus{
+			background: url("../images/line.png") left bottom no-repeat;
+			}
+			.header .navbar-light .navbar-nav .nav-link.active{
+				background: url("../images/line.png") left bottom no-repeat;
+			}
+			.header .navbar-light .navbar-nav .nav-link{
+				margin: 10px 0px 0px 15px;
+			}
+			.banner .inner-banner h6 {
+			    font-size: 14px;
+			    line-height: 24px;
+            }
+            .banner .inner-banner h1{
+            	font-size: 30px;
+            	line-height: 40px;
+            }
+            .banner .inner-banner p{
+            	font-size: 9px;
+            	line-height: 19px;
+            }
+            .inner-button{
+            	margin: 0px 10px 0px;
+            }
+            .inner-button .btn-primary{
+            	font-size: 10px;
+            }
+            .inner-button .btn-secondary{
+            	font-size: 10px;
+            }
+            .feature .title h6{
+            	font-size: 14px;
+            	line-height: 24px;
+            }
+            .feature .title h2{
+            	font-size: 30px;
+            	line-height: 40px;
+            }
+            .inner-feature h4{
+            	font-size:25px ;
+            	line-height:35px ;
+            }
+            .inner-feature p{
+            	font-size:17px ;
+            	line-height: 27px;
+            }
+            .about-sort .title h6{
+            	font-size: 14px;
+            	line-height: 24px;
+            }
+            .about-sort .title h2{
+            	font-size: 28px;
+            	line-height: 38px;
+            }
+            .about-sort-text{
+            	font-size: 12px;
+            	line-height: 22px;
+            }
+            .about-sort-list li {
+            	font-size: 14px;
+            	line-height: 24px;
+            }
+            .about-long{
+            	padding: 0px 0px;
+            	margin-top: -30px;
+            }
+            .about-long .title{
+            	margin: 55px 0px 0px;
+            }
+             .about-long .title h6{
+             	font-size: 14px;
+             	line-height: 24px;
+             }
+             .about-long .title h2{
+             	font-size: 30px;
+             	line-height: 40px;
+             }
+             .about-long-text{
+             	font-size: 10px;
+             	line-height: 20px;
+             	padding: 15px 0px;
+             }
+             .testimonials .title h6{
+             	font-size: 14px;
+             	line-height: 24px;
+             }
+             .testimonials .title h2{
+             	font-size: 30px;
+             	line-height: 40px;
+             }
+             .testimonials .owl-carousel .item h4{
+             	font-size: 16px;
+             	line-height: 26px;
+             }
+             .download{
+             	padding: 5px 0px;
+             }
+             .download h3{
+             	font-size: 30px;
+             	font-weight: 300;
+             
+             }
+             .download .inner-button {
+             	padding: 15px 0px;
+                text-align: center;
+             }
+             .price-box{
+             	margin: 30px 0px;
+             }
+             .price-inner p{
+             	font-size: 15px;
+             	line-height: 25px;
+             }
+             .price-planing{
+             	padding: 65px 0px;
+             }
+             .price-planing .title h6{
+             	font-size: 14px;
+             	line-height: 24px;
+             }
+              .price-planing .title h2{
+             	font-size: 36px;
+             	line-height: 46px;
+             }
+             .price-header{
+             	font-size: 16px;
+             }
+            .price h1{
+             	font-size: 42px;
+             }
+             .price-inner .btn-primary{
+             	font-size: 10px;
+             }
+             .contact-us{
+             	padding: 60px 0px 0px;
+             }
+             .contact-us .title h6{
+             	font-size: 14px;
+             	line-height: 24px;
+
+             }
+             .contact-us .title h2{
+             	font-size: 38px;
+             	line-height: 48px;
+
+             }
+             .contact-us .inner-contact{
+             	margin-top: 10px;
+             }
+             .contact-us .inner-contact p{
+             	font-size: 14px;
+             	line-height: 24px;
+             }
+             .main-form{
+             	padding: 40px 40px 0px;
+             }
+
+
+}
+/*most of the low resolution tablet, mobile phone css*/
+@media (min-width: 481px) and (max-width: 767px){
+	/*css start*/
+
+	       .header .navbar-light .navbar-toggler {
+			    color: #fff;
+			    border-color: #fff;
+			}
+			.header .navbar-nav{
+				margin: 30px 0px 0px;
+			}
+			.header .navbar-toggler:focus{
+				box-shadow: 0 0 0 0rem;
+			}
+			.header .navbar-light .navbar-nav .nav-link:hover, .header .navbar-light .navbar-nav .nav-link:focus{
+			background: url("../images/line.png") left bottom no-repeat;
+			}
+			.header .navbar-light .navbar-nav .nav-link.active{
+				background: url("../images/line.png") left bottom no-repeat;
+			}
+			.header .navbar-light .navbar-nav .nav-link{
+				margin: 10px 0px 0px 15px;
+			}
+			.inner-banner h6{
+				font-size: 16px;
+				line-height: 26px;
+			}
+			.inner-banner h1{
+				font-size: 40px;
+				line-height: 50px;
+			}
+			.inner-banner p {
+				font-size: 14px;
+				line-height: 24px;
+			}
+			.feature.title h6{
+				font-size: 16px;
+				line-height: 26px;
+			}
+			.feature .title h2{
+				font-size: 40px;
+				line-height: 50px;
+			}  
+			.inner-feature h4{
+              font-size:30px ;
+              line-height:40px ;
+			}
+			.inner-feature p{
+               font-size:25px ;
+              line-height:35px ;
+			}
+			.about-sort .title h6{
+				font-size: 14px;
+				line-height: 24px;
+			}
+			.about-sort .title h2{
+				font-size: 40px;
+				line-height: 50px;
+			}
+			.about-sort-list li{
+				font-size: 16px;
+				line-height: 26px;
+			}
+			body {
+				font-size: 0px;
+			}
+			.about-long {
+				padding: 0px;
+			}
+			.about-long .title h6{
+				font-size: 16px;
+				line-height: 26px;
+
+			}
+			.about-long .title h2{
+				font-size: 40px;
+				line-height: 50px;
+			}
+			.about-long-text{
+				font-size: 16pxpx;
+				line-height: 26px;
+			}
+			.testimonials .title h6{
+                font-size: 16px;
+                line-height: 26px;
+			}
+			.testimonials .title h2{
+				font-size: 40px;
+				line-height: 50px;
+			}
+			.testimonials .owl-carousel .item h4{
+				font-size: 22px;
+				line-height: 32px;
+			}
+			.download h3{
+				font-size: 27px;
+				line-height: 37px;
+			}
+			.download .inner-button{
+			    text-align: center;
+                 margin: 15px 0px;
+             }
+			.price-planing{
+				padding: 65px 0px;
+			}
+			.price-planing .title h6{
+				font-size: 16px;
+				line-height: 26px;
+			}
+			.price-planing .title h2{
+				font-size: 40px;
+				line-height: 50px;
+			}
+			.price-inner p{
+				font-size: 23px;
+				line-height: 33px;
+			}
+			.price-box{
+				margin:50px 13px;
+			}
+			.contact-us{
+				padding: 60px 0px;
+			}
+			.contact-us .title h6{
+				font-size: 16px;
+				line-height: 26px;
+			}
+			.contact-us .title h2{
+				font-size: 40px;
+				line-height: 50px;
+			}
+			.contact-us .inner-contact{
+				margin: 10px 0px;
+			}
+			.contact-us .inner-contact p {
+			    font-size: 15px;
+			    line-height: 25px;
+			}
+
+
+   /*css end*/
+}
+
+/*most of the ipad, tablet,notebook css*/
+@media (min-width: 768px) and (max-width: 1024px){
+	/*css start*/
+
+	.header .navbar-light .navbar-toggler {
+			    color: #fff;
+			    border-color: #fff;
+			}
+			.header .navbar-nav{
+				margin: 30px 0px 0px;
+			}
+			.header .navbar-toggler:focus{
+				box-shadow: 0 0 0 0rem;
+			}
+			.header .navbar-light .navbar-nav .nav-link:hover, .header .navbar-light .navbar-nav .nav-link:focus{
+			background: url("../images/line.png") left bottom no-repeat;
+			}
+			.header .navbar-light .navbar-nav .nav-link.active{
+				background: url("../images/line.png") left bottom no-repeat;
+			}
+			.header .navbar-light .navbar-nav .nav-link{
+				margin: 10px 0px 0px 15px;
+			}
+			.inner-feature h4{
+				font-size: 25px;
+				line-height:35px ;
+			}
+			.inner-feature p{
+				font-size: 20px;
+				line-height:30px;
+				
+			}
+
+			.download h3{
+				font-size: 30px ;
+				line-height: 40px ;
+				text-align: center;
+				}
+				.download .inner-button{
+					text-align: center;
+					padding: 15px 0px;
+		        }
+					
+				.inner-button .btn-primary{
+					font-size: 10px;
+				}
+				.inner-button .btn-secondary{
+					font-size: 10px;
+				}
+				.price-inner p{
+					font-size: 16px;
+					line-height: 26px;
+					padding: 0px 205px;
+				}	
+
+				.price-box{
+					margin: 50px 0px;
+				}
+				/*css end*/
+}
